@@ -1,0 +1,10 @@
+Atlanta Falcons Detroit Lions 6 20
+Atlanta Falcons Jacksonville Jaguars 7 23
+Arizona Cardinals SanFrancisco 49ers 16 35
+Arizona Cardinals Seattle Seahawks 10 20
+Baltimore Ravens Arizona Cardinals 31 24
+Baltimore Ravens Cincinnati Bengals 27 24
+Buffalo Bills NewEngland Patriots 25 29
+Carolina Panthers Atlanta Falcons 10 24
+Carolina Panthers Seattle Seahawks 27 37
+Chicago Bears Washington Commanders 40 20

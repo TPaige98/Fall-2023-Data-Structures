@@ -1,0 +1,15 @@
+1010 Trevor Paige Programmer 80 25.00 0.22
+1020 Makenzie Paige Secretary 80 18.00 0.12
+1030 Trisha Farmer Call-Center 80 15.00 0.12
+1040 Tyler Rineheart Software-Engineer 80 25.00 0.22
+1050 Cameron Rineheart Graphic-Designer 80 22.00 0.22
+1060 Cameron Brown Mechanical-Engineer 80 25.00 0.22
+1070 Kevin Hoang Accountant 80 20.00 0.12
+1080 Landon Smith Service 80 14.00 0.12
+1090 Noah Smith Service 80 14.00 0.12
+1100 Michael Millea Maintenance 80 14.00 0.12
+1110 Robert Merrill Accountant 80 20.00 0.12
+1120 Lane Rasmussen Programmer 80 25.00 0.22
+1130 Nathan Payne Software-Engineer 80 25.00 0.22
+1140 Dax Harris Call-Center 80 15.00 0.12
+1150 Derrick Farmer Driver 80 18.00 0.12

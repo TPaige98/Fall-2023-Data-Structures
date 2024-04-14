@@ -1,0 +1,7 @@
+SUMMARY OF PAYSTUB DATA: 
+A. Total Gross Pay: 23600.00
+B. Total Federal Taxes: 4008.00
+C. Total State Taxes: 1121.00
+D. Total Social Security Taxes: 1463.20
+E. Total Medicare Taxes: 342.20
+F. Total Net Pay: 16665.60

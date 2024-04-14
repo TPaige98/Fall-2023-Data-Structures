@@ -1,0 +1,10 @@
+Cincinnati Bengals Cleveland Browns 3 24
+Cincinnati Bengals Tennessee Titans 3 27
+Cleveland Browns Baltimore Ravens 33 31
+Detroit Lions GreenBay Packers 34 20
+Detroit Lions KansasCity Chiefs 21 20
+GreenBay Packers Atlanta Falcons 24 25
+Houston Texans Jacksonville Jaguars 37 17
+Jacksonville Jaguars Buffalo Bills 25 20
+Jacksonville Jaguars Indianapolis Colts 31 21
+LosAngeles Chargers Minnesota Vikings 28 24
